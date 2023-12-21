@@ -15,3 +15,10 @@ Criamos uma classe que faz a geração de Salarios.
 
 E uma classe service que faz a requisição da controller.
 ![image](https://github.com/MuriloAlmeid/meu-projeto-web/assets/125038277/11b7d039-0a32-4019-af2d-434d8eea9b36)
+
+E como finalização do projeto, podemos vê a requisição sendo exibida no navegador.
+![image](https://github.com/MuriloAlmeid/meu-projeto-web/assets/125038277/4624c135-093e-4933-abdd-4c5c6eb420a5)
+
+Esse foi meu primeiro projeto-web, utilizando spring-boot, caso tenha gostado, contato abaixo.
+Agradeço pela atenção até aqui espero que goste do projeto!
+Developed by @MuriloAlmeid
