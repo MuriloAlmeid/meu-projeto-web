@@ -19,6 +19,6 @@ E uma classe service que faz a requisição da controller.
 E como finalização do projeto, podemos vê a requisição sendo exibida no navegador.
 ![image](https://github.com/MuriloAlmeid/meu-projeto-web/assets/125038277/4624c135-093e-4933-abdd-4c5c6eb420a5)
 
-Esse foi meu primeiro projeto-web, utilizando spring-boot, caso tenha gostado, contato abaixo.
+<html>Esse foi meu primeiro projeto-web, utilizando spring-boot, caso tenha gostado, contato abaixo.
 Agradeço pela atenção até aqui espero que goste do projeto!
-Developed by @MuriloAlmeid
+Developed by @MuriloAlmeid</html>
